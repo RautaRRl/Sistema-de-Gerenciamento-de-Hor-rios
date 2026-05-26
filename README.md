@@ -12,6 +12,7 @@ permitindo que profissionais da clínica organizem seus horários e salas de ate
 - Persistência local dos dados de usuários, salas e agendamentos.
 
 #  Tecnologias Utilizadas
+- Java → Backend 
 - JavaFX → Interface gráfica moderna e responsiva.  
 - Scene Builder → Criação visual das telas.  
 - SQLite → Banco de dados leve e embutido.  
