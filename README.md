@@ -1,4 +1,4 @@
-# Sistema-de-Gerenciamento-de-Horarios
+# Sistema de Gerenciamento de Horarios
 Este sistema foi desenvolvido para auxiliar clínicas de estética no gerenciamento de agendamentos de clientes.  
 O objetivo é oferecer uma solução local (sem necessidade de internet), simples de usar e visualmente agradável, 
 permitindo que profissionais da clínica organizem seus horários e salas de atendimento de forma prática.
